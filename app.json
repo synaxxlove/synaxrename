@@ -1,7 +1,7 @@
 {
     "name": "Renamer Bot 2GB",
     "description": "Telegram File Renamer Bot 2GB",
-    "logo": "https://graph.org/file/2c62c5c158d42b0dc8deb.jpg",
+    "logo": "https://telegra.ph/file/ea691d268125e936cb843.jpg",
     "keywords": ["Renamer Bot 2GB", "Mongo DB"],    
     "repository": "https://github.com/synaxxlove/synaxrename",
     "env": {
